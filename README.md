@@ -1,16 +1,25 @@
-### Hi there 👋
+# RecSys와 소비자 행동예측을 즐기는 ML Researcher
+돈 되는 추천을 위한 소비예측에 특히 관심이 많습니다.
 
-<!--
-**H4Y3J1N/H4Y3J1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Career
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **AI 데이터사이언티스트 이어드림 스쿨 2기 @ 추천시스템 실습코치 (2022.06 ~ 현재)**    
+중소벤처기업진흥공단 주관, 총 교육생 200명 규모의 부트캠프 실습코치   
+     
+> **데이터 분석가 취업완성 과정 4기 @ 실습코치 (2022.02 ~ 2022.05)**    
+패스트캠퍼스 주관, 총 교육생 40명 규모의 부트캠프 실습코치   
+
+
+### Education
+> **패스트캠퍼스 AI 부트캠프 1기 우수 수료자**    
+6개월간의 부트캠프 수료를 통해 머신러닝, 딥러닝 전반에 대한 지식과 역량 함양   
+
+
+### Competitions & Project
+* 번개장터 플랫폼 유저 팔로우 추천을 통한 구독 피드 활성화 프로젝트
+* H&M 거래 로그와 유저, 아이템 데이터를 활용한 구매예측 프로젝트
+* 스타트업 기업연계 프로젝트 코칭
+* LG U+ 아이들나라 플랫폼 데이터를 활용한 시청예측 프로젝트
+* OTTO 멀티 추천시스템 개발 프로젝트
