@@ -1,4 +1,4 @@
-# RecSys와 소비자 행동예측을 즐기는 ML Researcher 🛒✨  
+# RecSys와 소비자 행동예측을 즐기는 ML Scientist 🛒✨  
    
 돈 되는 추천을 위해 공부하고 고민합니다! 
     
