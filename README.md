@@ -13,7 +13,7 @@
 
 ---
 
-<p><a href="https://mmm-e-commerce.chloemin.com">◾ 홈쇼핑 상품추천 Gitgub</a> | <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p> 홈쇼핑 상품추천 <a href="https://mmm-e-commerce.chloemin.com">Gitgub</a> | <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
 <p><a href="https://mmm-e-commerce.chloemin.com">◾ OTTO 3Task 멀티추천 Gitgub</a> | <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
