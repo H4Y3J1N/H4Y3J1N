@@ -51,25 +51,17 @@
 <br />
 
 
-### CAREER
+### CAREER & CONTACT
 
 ---
 
-<p align="left">
+<p align="center">
   AI Data Scientist BootCamp @ Recommend System coach (~2022.12)
   <br/>  Business Data Analyst BootCamp @ Machine Learning coach (~2022.05)
   <br/>  FastCampus AI BootCamp 1st @ accomplished student
 </p> 
 
-
-
 <br />
-<br />
-
-
-### Contact me
-
---- 
 
 <p align="center">
 Email | wikidipy@gmail.com  
