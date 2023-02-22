@@ -39,3 +39,18 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/slack-logo-1481728-1254330.png"  alt="slack" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">
 </p>
+
+
+<br />
+<br />
+
+
+### Career
+
+---
+
+<p align="left">
+  AI Data Scientist BootCamp @ Recommend System coach (~2022.12)
+  <br/>  Business Data Analyst BootCamp @ Machine Learning coach (~2022.05)
+  <br/>  FastCampus AI BootCamp @ 1기 우수 수료자 
+</p> 
