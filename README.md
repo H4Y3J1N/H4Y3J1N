@@ -1,7 +1,7 @@
-<h1 align="center">Hello : )</h1>
+<h1 align="center">Hello &nbsp; : )</h1>
 
 <p align="center">
-  Data Scientist who work in <b>Recommend System</b> & BackEnd Engineering with <b>Python</b> , <b>Node.js</b>
+  Data Scientist who work in Recommend System & BackEnd Engineering with <b>Python</b> , <b>Node.js</b>
   <br/>  and basically any other machine Learning technology!
 </p>
 
