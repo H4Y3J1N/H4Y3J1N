@@ -13,18 +13,17 @@
 
 ---
 
-<p><a href="https://mmm-e-commerce.chloemin.com">◾◼ 홈쇼핑 상품추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p><a href="https://mmm-e-commerce.chloemin.com">◾ 홈쇼핑 상품추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
-<p><a href="https://mmm-e-commerce.chloemin.com">◾◼ OTTO 3Task 멀티추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p><a href="https://mmm-e-commerce.chloemin.com">◾ OTTO 3Task 멀티추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
-<p><a href="https://mmm-e-commerce.chloemin.com">◾◼ LG U+ 아이들나라 영상추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p><a href="https://mmm-e-commerce.chloemin.com">◾ LG U+ 아이들나라 영상추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
-<p><a href="https://mmm-e-commerce.chloemin.com">◾◼ H&M 구매추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p><a href="https://mmm-e-commerce.chloemin.com">◾ H&M 구매추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
-<p><a href="https://mmm-e-commerce.chloemin.com">◾◼ 번개장터 구독피드 추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p><a href="https://mmm-e-commerce.chloemin.com">◾ 번개장터 구독피드 추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
 
-<br />
 <br />
 
 
@@ -49,7 +48,6 @@
 </p>
 
 
-<br />
 <br />
 
 
