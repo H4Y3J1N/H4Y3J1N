@@ -1,28 +1,65 @@
-# RecSys와 소비자 행동예측을 즐기는 ML Scientist 🛒✨  
-   
-돈 되는 추천을 위해 공부하고 고민합니다! 
-    
-    
-## 🎯 Career   
-### **AI 데이터사이언티스트 이어드림 스쿨 2기 @ 추천시스템 실습코치 (2022.06 ~ 현재)**    
-* 중소벤처기업진흥공단 주관, 총 교육생 200명 규모의 부트캠프 실습코치   
-* 추천시스템 트랙 전담
-     
-### **데이터 분석가 취업완성 과정 4기 @ 실습코치 (2022.02 ~ 2022.05)**    
-* 패스트캠퍼스 주관, 총 교육생 40명 규모의 부트캠프 실습코치   
-   
-   
-   
-## 🔖 Education    
-### **패스트캠퍼스 AI 부트캠프 1기 우수 수료자**    
-* 6개월간의 부트캠프 수료를 통해 머신러닝, 딥러닝 전반에 대한 지식과 역량 함양  
-* 7개의 토이/협업 프로젝트 완성 
-   
-    
-    
-## 🏆 Competitions & Project (정리된 것)   
-* 번개장터 플랫폼 유저 팔로우 추천을 통한 구독 피드 활성화 프로젝트
-* H&M 거래 로그와 유저, 아이템 데이터를 활용한 구매예측 프로젝트
-* 부트캠프 교육생 프로젝트 코칭
-* LG U+ 아이들나라 플랫폼 데이터를 활용한 시청예측 프로젝트
-* OTTO 멀티 추천시스템 개발 프로젝트 (Ongoing)
+<h1 align="center">Hello : )</h1>
+
+<p align="center">
+  Data Scientist who mostly work in Recommend System and BackEnd Engineering with <b>Python</b> , <b>Node/b>
+  <br/>  and basically any other machine Learning technology!
+</p>
+
+<br />
+
+
+ ### TOY PROJECT
+
+---
+
+<a href="https://danah-kim.github.io/fixabay">
+  <li>Fixabay</li>
+</a>
+
+<br />
+<br />
+
+
+### TECH SKILLS (Occupational)
+
+---
+
+<p align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+</p>
+
+<br />
+
+
+### TECH SKILLS & TOOLS
+
+---
+
+<p align="left">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png?f=avif&w=256" alt="python" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40">
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40">
+</p>
