@@ -1,7 +1,8 @@
 <h1 align="center">Hello : )</h1>
 
 <p align="center">
-  Data Scientist who mostly work in <b>Recommend System</b> and BackEnd Engineering with <b>Python</b> , <b>Node.js</b>
+  Data Scientist who mostly work in <b>Recommend System</b> & BackEnd Engineering
+  <br/>  with <b>Python</b> , <b>Node.js</b>
   <br/>  and basically any other machine Learning technology!
 </p>
 
@@ -15,6 +16,12 @@
 <a href="https://danah-kim.github.io/fixabay">
   <li>Fixabay</li>
 </a>
+
+### 쇼핑몰
+[e-commerce 배포 사이트](https://mmm-e-commerce.chloemin.com) | [e-commerce 깃허브](https://github.com/MINYUKYUNG/react-e-commerce-site)
+
+<p><a href="https://mmm-e-commerce.chloemin.com">e-commerce 배포 사이트</a> <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">e-commerce 깃허브</a></p>
+
 
 <br />
 <br />
@@ -45,12 +52,27 @@
 <br />
 
 
-### Career
+### CAREER
 
 ---
 
 <p align="left">
   AI Data Scientist BootCamp @ Recommend System coach (~2022.12)
   <br/>  Business Data Analyst BootCamp @ Machine Learning coach (~2022.05)
-  <br/>  FastCampus AI BootCamp @ 1기 우수 수료자 
+  <br/>  FastCampus AI BootCamp 1st @ accomplished student
 </p> 
+
+
+
+<br />
+<br />
+
+
+### Contact me
+
+--- 
+
+<p align="center">
+Email | wikidipy@gmail.com  
+Blog | https://h4y3j1n.github.io/  
+</p>
