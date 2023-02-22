@@ -29,7 +29,8 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>  
   <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-21-1174941.png" alt="mySql" width="40" height="40">    
-  <img src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" alt="amazoncloud" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png" alt="google-cloud" width="40" height="40"/>  
+  <img src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" alt="amazon-cloud" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40">
