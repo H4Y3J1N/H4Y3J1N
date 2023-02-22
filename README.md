@@ -13,14 +13,7 @@
 
 ---
 
-<a href="https://danah-kim.github.io/fixabay">
-  <li>Fixabay</li>
-</a>
-
-### 쇼핑몰
-[e-commerce 배포 사이트](https://mmm-e-commerce.chloemin.com) | [e-commerce 깃허브](https://github.com/MINYUKYUNG/react-e-commerce-site)
-
-<p> * <a href="https://mmm-e-commerce.chloemin.com">e-commerce 배포 사이트</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">e-commerce 깃허브</a></p>
+<p><a href="https://mmm-e-commerce.chloemin.com">◾ e-commerce 배포 사이트</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">e-commerce 깃허브</a></p>
 
 
 <br />
@@ -74,5 +67,5 @@
 
 <p align="center">
 Email | wikidipy@gmail.com  
-Blog | https://h4y3j1n.github.io/  
+<br/>  Blog | https://h4y3j1n.github.io/  
 </p>
