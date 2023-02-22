@@ -20,7 +20,7 @@
 ### 쇼핑몰
 [e-commerce 배포 사이트](https://mmm-e-commerce.chloemin.com) | [e-commerce 깃허브](https://github.com/MINYUKYUNG/react-e-commerce-site)
 
-<p><a href="https://mmm-e-commerce.chloemin.com">e-commerce 배포 사이트</a> <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">e-commerce 깃허브</a></p>
+<p> * <a href="https://mmm-e-commerce.chloemin.com">e-commerce 배포 사이트</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">e-commerce 깃허브</a></p>
 
 
 <br />
