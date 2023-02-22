@@ -12,15 +12,15 @@
 
 ---
 
-<p> 홈쇼핑 상품추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://mmm-e-commerce.chloemin.com">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p> 홈쇼핑 상품추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/Rec-homeShopping">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4">Notion</a></p>
 
-<p>OTTO 3Task 멀티추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://mmm-e-commerce.chloemin.com">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p>OTTO 3Task 멀티추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/OTTO_competition">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
 
-<p>LG U+ 아이들나라 영상추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://mmm-e-commerce.chloemin.com">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p>LG U+ 아이들나라 영상추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/lg-children-country-recommend">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://jinsuc.notion.site/1d4b482222744fb0ad7e20ef83550019?v=218dfb2a40f940da901a43898df0e318">Notion</a></p>
 
-<p>H&M 구매추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://mmm-e-commerce.chloemin.com">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p>H&M 구매추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="x.com">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
 
-<p>번개장터 구독피드 추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://mmm-e-commerce.chloemin.com">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p>번개장터 구독피드 추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/chai_Final_project">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="">Notion</a></p>
 
 
 <br />
@@ -32,7 +32,7 @@
 ---
 
 <p align="left">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python" width="40" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>  
   <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-21-1174941.png" alt="mySql" width="40" height="40">    
   <img src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png" alt="google-cloud" width="40" height="40"/>  
