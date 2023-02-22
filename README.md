@@ -12,15 +12,15 @@
 
 ---
 
-<p> 홈쇼핑 상품추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/Rec-homeShopping">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4">Notion</a></p>
+<p> 홈쇼핑 상품추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/Rec-homeShopping">Github</a>&nbsp;&nbsp;&nbsp;<a href="https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4">Notion</a></p>
 
-<p>OTTO 3Task 멀티추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/OTTO_competition">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
+<p>OTTO 3Task 멀티추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/OTTO_competition">Github</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
 
-<p>LG U+ 아이들나라 영상추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/lg-children-country-recommend">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://jinsuc.notion.site/1d4b482222744fb0ad7e20ef83550019?v=218dfb2a40f940da901a43898df0e318">Notion</a></p>
+<p>LG U+ 아이들나라 영상추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/lg-children-country-recommend">Github</a>&nbsp;&nbsp;&nbsp;<a href="https://jinsuc.notion.site/1d4b482222744fb0ad7e20ef83550019?v=218dfb2a40f940da901a43898df0e318">Notion</a></p>
 
-<p>H&M 구매추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="x.com">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
+<p>H&M 구매추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="x.com">Github</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
 
-<p>번개장터 구독피드 추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/chai_Final_project">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="">Notion</a></p>
+<p>번개장터 구독피드 추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/chai_Final_project">Github</a>&nbsp;&nbsp;&nbsp;<a href="">Notion</a></p>
 
 
 <br />
