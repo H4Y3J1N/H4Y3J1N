@@ -1,7 +1,7 @@
 <h1 align="center">Hello : )</h1>
 
 <p align="center">
-  Data Scientist who mostly work in <b>Recommend System</b> & BackEnd Engineering
+  Data Scientist who mostly work in <b>Recommend System</b>  BackEnd Engineering
   <br/>  with <b>Python</b> , <b>Node.js</b>
   <br/>  and basically any other machine Learning technology!
 </p>
@@ -13,15 +13,15 @@
 
 ---
 
-<p><a href="https://mmm-e-commerce.chloemin.com">◾ 홈쇼핑 상품추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p><a href="https://mmm-e-commerce.chloemin.com">◾ 홈쇼핑 상품추천 Gitgub</a> | <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
-<p><a href="https://mmm-e-commerce.chloemin.com">◾ OTTO 3Task 멀티추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p><a href="https://mmm-e-commerce.chloemin.com">◾ OTTO 3Task 멀티추천 Gitgub</a> | <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
-<p><a href="https://mmm-e-commerce.chloemin.com">◾ LG U+ 아이들나라 영상추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p><a href="https://mmm-e-commerce.chloemin.com">◾ LG U+ 아이들나라 영상추천 Gitgub</a> | <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
-<p><a href="https://mmm-e-commerce.chloemin.com">◾ H&M 구매추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p><a href="https://mmm-e-commerce.chloemin.com">◾ H&M 구매추천 Gitgub</a> | <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
-<p><a href="https://mmm-e-commerce.chloemin.com">◾ 번개장터 구독피드 추천 Gitgub</a> ＆ <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
+<p><a href="https://mmm-e-commerce.chloemin.com">◾ 번개장터 구독피드 추천 Gitgub</a> | <a href="https://github.com/MINYUKYUNG/react-e-commerce-site">Notion</a></p>
 
 
 <br />
@@ -51,7 +51,7 @@
 <br />
 
 
-### CAREER & CONTACT
+### CAREER
 
 ---
 
@@ -60,10 +60,3 @@
   <br/>  Business Data Analyst BootCamp @ Machine Learning coach (~2022.05)
   <br/>  FastCampus AI BootCamp 1st @ accomplished student
 </p> 
-
-<br />
-
-<p align="center">
-Email | wikidipy@gmail.com  
-<br/>  Blog | https://h4y3j1n.github.io/  
-</p>
