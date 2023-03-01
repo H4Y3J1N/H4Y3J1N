@@ -14,13 +14,13 @@
 <tr><th>Machine Learning </th></tr>
 <tr><td>
 
-|Title | Stars | Technologies | Project Doc|
+|Title | Technologies | Project Doc|
 |--|--|--|--|
-| [홈쇼핑 상품추천](https://github.com/H4Y3J1N/Rec-homeShopping) | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/Rec-homeShopping?style=flat-square&labelColor=black"/> |  | [Notion Link](https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4)|
-| [OTTO 3Task 멀티추천](https://github.com/H4Y3J1N/OTTO_competition) | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/OTTO_competition?style=flat-square&labelColor=black"/> |  | [Notion Link]()|
-| [LG U+ 아이들나라 영상추천](https://github.com/H4Y3J1N/lg-children-country-recommend) | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/lg-children-country-recommend?style=flat-square&labelColor=black"/> |  | [Notion Link]()|
-| [H&M 구매추천](https://github.com/H4Y3J1N/) | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/?style=flat-square&labelColor=black"/> |  | [Notion Link]()|
-| [번개장터 구독피드 추천](https://github.com/H4Y3J1N/chai_Final_project) | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/chai_Final_project?style=flat-square&labelColor=black"/> |  | [Notion Link]()|
+| [홈쇼핑 상품추천](https://github.com/H4Y3J1N/Rec-homeShopping) |  | [Notion Link](https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4)|
+| [OTTO 3Task 멀티추천](https://github.com/H4Y3J1N/OTTO_competition) |  | [Notion Link]()|
+| [LG U+ 아이들나라 영상추천](https://github.com/H4Y3J1N/lg-children-country-recommend) |  | [Notion Link]()|
+| [H&M 구매추천](https://github.com/H4Y3J1N/) | | [Notion Link]()|
+| [번개장터 구독피드 추천](https://github.com/H4Y3J1N/chai_Final_project) |  | [Notion Link]()|
 </td></tr> </table>
 
 

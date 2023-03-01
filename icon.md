@@ -11,3 +11,11 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)
 
 ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)
+
+![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) 
+
+![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)
+
+
+<!-- |Title | Stars | Technologies | Project Doc|
+ | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/Rec-homeShopping?style=flat-square&labelColor=black"/> | -->
