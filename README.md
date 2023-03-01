@@ -1,7 +1,7 @@
 <h1 align="center">Hello &nbsp; : )</h1>
 
 <p align="center">
-  ho work in Recommend System & BackEnd Engineering with <b>Python</b> , <b>Node.js</b>
+  Who work in Recommend System & BackEnd Engineering with <b>Python</b> , <b>Node.js</b>
   <br/>  and basically any other machine Learning technology!
 </p>
 
