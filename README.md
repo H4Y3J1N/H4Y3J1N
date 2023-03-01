@@ -26,6 +26,9 @@
 </td></tr> </table>
 
 
+<br />
+
+
 ### TECH SKILLS & TOOLS
 
 ---
