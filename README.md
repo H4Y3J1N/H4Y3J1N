@@ -12,19 +12,38 @@
 
 ---
 
-<p> 홈쇼핑 상품추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/Rec-homeShopping">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4">Notion</a></p>
+<p> 홈쇼핑 상품추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/Rec-homeShopping">Github</a>&nbsp;&nbsp;&nbsp;<a href="https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4">Notion</a></p>
 
-<p>OTTO 3Task 멀티추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/OTTO_competition">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
+<p>OTTO 3Task 멀티추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/OTTO_competition">Github</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
 
-<p>LG U+ 아이들나라 영상추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/lg-children-country-recommend">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://jinsuc.notion.site/1d4b482222744fb0ad7e20ef83550019?v=218dfb2a40f940da901a43898df0e318">Notion</a></p>
+<p>LG U+ 아이들나라 영상추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/lg-children-country-recommend">Github</a>&nbsp;&nbsp;&nbsp;<a href="https://jinsuc.notion.site/1d4b482222744fb0ad7e20ef83550019?v=218dfb2a40f940da901a43898df0e318">Notion</a></p>
 
-<p>H&M 구매추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="x.com">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
+<p>H&M 구매추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="x.com">Github</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
 
-<p>번개장터 구독피드 추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/chai_Final_project">Gitgub</a>&nbsp;&nbsp;&nbsp;<a href="">Notion</a></p>
+<p>번개장터 구독피드 추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/chai_Final_project">Github</a>&nbsp;&nbsp;&nbsp;<a href="">Notion</a></p>
 
 
 <br />
 
+
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><td>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [Minecraft-AI](https://github.com/drkostas/Minecraft-AI) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
+| [Bert Question-Answering](https://github.com/drkostas/Bert-Question-Answering) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
+| [Accident Severity Pred.](https://github.com/drkostas/accident-severity-prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
+| [Hybrid Girvan Newman](https://github.com/drkostas/HGN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/HGN?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) ![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)|
+| [COVID19 Vacc. Pred.](https://github.com/drkostas/covid19-vaccinations-predict) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/covid19-vaccinations-predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [Instagram Likes Pred.](https://github.com/drkostas/Insta-Likes-Predict) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Insta-Likes-Predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
+| [RL Value Iteration](https://github.com/drkostas/RL-Value-Iteration) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/RL-Value-Iteration?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| [Vanilla Numpy CNN](https://github.com/drkostas/Numpy-CNN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-CNN?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| [Vanilla Numpy NN](https://github.com/drkostas/Numpy-NeuralNet-1) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+</td></tr> </table>
 
 
 ### TECH SKILLS & TOOLS
