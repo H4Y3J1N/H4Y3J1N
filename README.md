@@ -8,25 +8,10 @@
 <br />
 
 
- ### TOY PROJECT
+ ### PROJECTS
 
 ---
 
-<p> 홈쇼핑 상품추천&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="">Github</a>&nbsp;&nbsp;&nbsp;<a href="">Notion</a></p>
-
-<p>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/OTTO_competition">Github</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
-
-<p>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/lg-children-country-recommend">Github</a>&nbsp;&nbsp;&nbsp;<a href="https://jinsuc.notion.site/1d4b482222744fb0ad7e20ef83550019?v=218dfb2a40f940da901a43898df0e318">Notion</a></p>
-
-<p>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="x.com">Github</a>&nbsp;&nbsp;&nbsp;<a href="https://x.com">Notion</a></p>
-
-<p>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://github.com/H4Y3J1N/chai_Final_project">Github</a>&nbsp;&nbsp;&nbsp;<a href="">Notion</a></p>
-
-
-<br />
-
-
-### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning </th></tr>
 <tr><td>
