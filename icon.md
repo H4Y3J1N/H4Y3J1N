@@ -1,6 +1,6 @@
 ![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) 
 
-![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) <br> 
+![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark)
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 
@@ -18,4 +18,5 @@
 
 
 <!-- |Title | Stars | Technologies | Project Doc|
+|--|--|--|--|
  | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/Rec-homeShopping?style=flat-square&labelColor=black"/> | -->
