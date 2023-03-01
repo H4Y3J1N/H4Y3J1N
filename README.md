@@ -1,7 +1,7 @@
 <h1 align="center">Hello &nbsp; : )</h1>
 
 <p align="center">
-  Who work in Recommend System & BackEnd Engineering with <b>Python</b> , <b>Node.js</b>
+  Work in Recommend System & BackEnd Engineering with <b>Python</b>, <b>Node.js</b>
   <br/>  and especially interested in Graph Neural Network!
 </p>
 

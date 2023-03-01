@@ -20,8 +20,6 @@
 
 ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)
 
- <br>
-
 <!-- |Title | Stars | Technologies | Project Doc|
 |--|--|--|--|
  | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/Rec-homeShopping?style=flat-square&labelColor=black"/> | -->
