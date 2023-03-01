@@ -15,7 +15,7 @@
 <tr><td>
 
 |Title | Technologies | Project Doc|
-|--|--|--|--|
+|--|--|--|
 | [홈쇼핑 상품추천](https://github.com/H4Y3J1N/Rec-homeShopping) |  | [Notion Link](https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4)|
 | [OTTO 3Task 멀티추천](https://github.com/H4Y3J1N/OTTO_competition) |  | [Notion Link]()|
 | [LG U+ 아이들나라 영상추천](https://github.com/H4Y3J1N/lg-children-country-recommend) |  | [Notion Link]()|
