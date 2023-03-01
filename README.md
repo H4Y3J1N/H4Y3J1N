@@ -2,10 +2,8 @@
 
 <p align="center">
   Who work in Recommend System & BackEnd Engineering with <b>Python</b> , <b>Node.js</b>
-  <br/>  and basically any other machine Learning technology!
+  <br/>  and especially interested in Graph Neural Network!
 </p>
-
-<br />
 
 
  ### PROJECTS
@@ -18,11 +16,11 @@
 
 |Title | Stars | Technologies | Project Doc|
 |--|--|--|--|
-| [홈쇼핑 상품추천](https://github.com/H4Y3J1N/Rec-homeShopping) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) | [Notion Link](https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4)|
-| [OTTO 3Task 멀티추천](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) | [Notion Link]()|
-| [LG U+ 아이들나라 영상추천](https://github.com/drkostas/Bert-Question-Answering) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy) | [Notion Link]()|
-| [H&M 구매추천](https://github.com/drkostas/accident-severity-prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | [Notion Link]()|
-| [번개장터 구독피드 추천](https://github.com/drkostas/HGN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/HGN?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) ![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) | [Notion Link]()|
+| [홈쇼핑 상품추천](https://github.com/H4Y3J1N/Rec-homeShopping) | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/Rec-homeShopping?style=flat-square&labelColor=black"/> |  | [Notion Link](https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4)|
+| [OTTO 3Task 멀티추천](https://github.com/H4Y3J1N/OTTO_competition) | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/OTTO_competition?style=flat-square&labelColor=black"/> |  | [Notion Link]()|
+| [LG U+ 아이들나라 영상추천](https://github.com/H4Y3J1N/lg-children-country-recommend) | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/lg-children-country-recommend?style=flat-square&labelColor=black"/> |  | [Notion Link]()|
+| [H&M 구매추천](https://github.com/H4Y3J1N/) | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/?style=flat-square&labelColor=black"/> |  | [Notion Link]()|
+| [번개장터 구독피드 추천](https://github.com/H4Y3J1N/chai_Final_project) | <img alt="Stars" src="https://img.shields.io/github/stars/H4Y3J1N/chai_Final_project?style=flat-square&labelColor=black"/> |  | [Notion Link]()|
 </td></tr> </table>
 
 
