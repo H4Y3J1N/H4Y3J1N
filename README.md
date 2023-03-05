@@ -9,7 +9,7 @@
  ### PROJECTS
 
 ---
-
+<p align="center">
 <table>
 <tr><th>Machine Learning </th></tr>
 <tr><td>
@@ -23,7 +23,7 @@
 | [번개장터 구독피드 추천](https://github.com/H4Y3J1N/chai_Final_project) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)| [ ]() |
 </td></tr> </table>
 
-
+</p>
 <br />
 
 
@@ -31,7 +31,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>  
   <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-21-1174941.png" alt="mySql" width="40" height="40">    
