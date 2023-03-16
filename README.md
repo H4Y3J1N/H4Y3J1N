@@ -9,8 +9,7 @@
  ### PROJECTS
 
 ---
-<p align="center">
-<table>
+<table align="center">
 <tr><th>Machine Learning </th></tr>
 <tr><td>
 
@@ -23,7 +22,6 @@
 | [Follow Feed Recsys](https://github.com/H4Y3J1N/chai_Final_project) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)| [ ]() |
 </td></tr> 
 </table> 
-</p>
 
 
 ### TECH SKILLS & TOOLS
