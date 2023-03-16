@@ -9,7 +9,7 @@
  ### PROJECTS
 
 ---
-
+<div style="text-align:center;">
 <table>
 <tr><th>Machine Learning </th></tr>
 <tr><td>
@@ -21,7 +21,7 @@
 | [H&M RecSys](https://github.com/H4Y3J1N/) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![PyG](https://img.shields.io/badge/PyG-black?style=flat-square&logo=PyG) | [ ]() |
 | [HomeShopping RecSys](https://github.com/H4Y3J1N/Rec-homeShopping) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | [📑](https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4) |
 | [Follow Feed Recsys](https://github.com/H4Y3J1N/chai_Final_project) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)| [ ]() |
-</td></tr> </table>
+</td></tr> </table> </div>
 
 <br />
 
