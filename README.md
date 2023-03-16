@@ -16,11 +16,11 @@
 
 |Title | Technologies | Project Doc|
 |--|--|--|
-| [OTTO 3Task 멀티추천](https://github.com/H4Y3J1N/OTTO_competition) | ![PyG](https://img.shields.io/badge/PyG-black?style=flat-square&logo=PyG) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | [ ]() |
-| [LG U+ 아이들나라 영상추천](https://github.com/H4Y3J1N/lg-children-country-recommend) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)| [📑](https://jinsuc.notion.site/1d4b482222744fb0ad7e20ef83550019?v=218dfb2a40f940da901a43898df0e318) |
-| [H&M 구매추천](https://github.com/H4Y3J1N/) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | [ ]() |
-| [홈쇼핑 상품추천](https://github.com/H4Y3J1N/Rec-homeShopping) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | [📑](https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4) |
-| [번개장터 구독피드 추천](https://github.com/H4Y3J1N/chai_Final_project) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)| [ ]() |
+| [OTTO 3Task RecSys](https://github.com/H4Y3J1N/OTTO_competition) | ![PyG](https://img.shields.io/badge/PyG-black?style=flat-square&logo=PyG) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | [ ]() |
+| [LG U+ RecSys](https://github.com/H4Y3J1N/lg-children-country-recommend) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)| [📑](https://jinsuc.notion.site/1d4b482222744fb0ad7e20ef83550019?v=218dfb2a40f940da901a43898df0e318) |
+| [H&M RecSys](https://github.com/H4Y3J1N/) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![PyG](https://img.shields.io/badge/PyG-black?style=flat-square&logo=PyG) | [ ]() |
+| [HomeShopping RecSys](https://github.com/H4Y3J1N/Rec-homeShopping) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | [📑](https://www.notion.so/Project-b8e32966cec14134ae4e7fb49ccd3754?pvs=4) |
+| [Follow Feed Recsys](https://github.com/H4Y3J1N/chai_Final_project) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)| [ ]() |
 </td></tr> </table>
 
 <br />
