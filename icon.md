@@ -8,6 +8,8 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) 
 
+![PyG](https://img.shields.io/badge/PyG-black?style=flat-square&logo=PyG)
+
 [PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark)
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)
