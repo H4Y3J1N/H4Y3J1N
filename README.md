@@ -1,4 +1,4 @@
-<h1 align="center">I'm striving to become a top expert in GNN &nbsp; : )</h1>
+<h1 align="center"> GNN is amazing &nbsp; : )</h1>
 
 <p align="center">
   Work in Recommend System & BackEnd Engineering with <b>Python</b>, <b>Node.js</b>
