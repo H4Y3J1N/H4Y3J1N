@@ -2,7 +2,7 @@
 
 <p align="center">
   Work in Recommend System & BackEnd Engineering with <b>Python</b>, <b>Node.js</b>
-  <br/>  and especially interested in <b>Graph Neural Network!</b>
+  <br/>  and especially focused on <b>Graph Neural Network!</b>
 </p>
 
 
