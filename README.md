@@ -54,6 +54,6 @@
 <p align="center">
   GNNs Graph User Group Contributer (2023.06~)
   <br/>  AI Data Scientist BootCamp @ Recommend System coach (~2023.01)
-  <br/>  Business Data Analyst BootCamp @ Machine Learning coach (~2022.05)
+  <br/>  Business Data Analyst BootCamp @ Machine Learning coach (~2022.02)
   <br/>  FastCampus AI BootCamp 1st @ accomplished student
 </p> 
