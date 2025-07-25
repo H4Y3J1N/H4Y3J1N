@@ -1,7 +1,7 @@
-<h1 align="center"> Irresistible RecSys with Graph Neural Networks &nbsp; : )</h1>
+<h1 align="center"> Irresistible AI Agent Automation System with Graph &nbsp; : )</h1>
 
 <p align="center">
-  Work in Recommend System & BackEnd Engineering with <b>Python</b>, <b>Node.js</b>
+  AI Engineer & ML Backend Engineer <b>Python</b>, <b>Node.js</b>
   <br/>  and especially focused on <b>Graph Neural Network!</b>
 </p>
 
