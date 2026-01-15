@@ -1,4 +1,4 @@
-<h1 align="center"> Irresistible AI Agent Automation System with Graph &nbsp; : )</h1>
+<h1 align="center"> Irresistible AI Agent Automation System </h1>
 
 <p align="center">
   AI Engineer & ML Backend Engineer
