@@ -60,7 +60,8 @@
 ---
 
 <p align="center">
-  AI Specialist @ Envelops (2024.01~)
+  AI Backend Engineer @ Buzzni (2026.03~)
+  <br/>  AI Specialist @ Envelops (~2026.02)
   <br/>  GNNs Graph User Group Contributer (2023.06~)
   <br/>  AI Data Scientist BootCamp @ Recommend System coach (~2023.01)
   <br/>  Business Data Analyst BootCamp @ Machine Learning coach (~2022.02)
