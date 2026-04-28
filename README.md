@@ -29,9 +29,29 @@
 ### TECH SKILLS & TOOLS
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,python,langchain,docker,kubernetes,redis,postgres,neo4j,fastapi,grafana,sentry,git,github,linux,aws,gcp&perline=16" />
+  <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain" alt="LangChain">
+  <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai" alt="OpenAI">
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis" alt="Redis">
+  <img src="https://img.shields.io/badge/Neo4j-black?style=for-the-badge&logo=neo4j" alt="Neo4j">
+  <img src="https://img.shields.io/badge/Milvus-black?style=for-the-badge&logo=milvus" alt="Milvus">
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/ArgoCD-black?style=for-the-badge&logo=argo" alt="ArgoCD">
+  <img src="https://img.shields.io/badge/MLflow-black?style=for-the-badge&logo=mlflow" alt="MLflow">
+  <img src="https://img.shields.io/badge/Airflow-black?style=for-the-badge&logo=apacheairflow" alt="Airflow">
+  <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=sentry" alt="Sentry">
+  <img src="https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana" alt="Grafana">
+  <img src="https://img.shields.io/badge/Uptime_Kuma-black?style=for-the-badge&logo=uptimekuma" alt="Uptime Kuma">
+  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi" alt="FastAPI">
+  <img src="https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud" alt="GCP">
+  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices" alt="AWS">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
 </p>
-
 
 ### CAREER
 
